@@ -8,9 +8,13 @@ public class Person {
 	// 3. 자신의 주소(참조값, 주소값)를 반환 시킬 수 있다.
 
 	// 변수 --> private
+	@SuppressWarnings("unused")
 	private String name;
+	@SuppressWarnings("unused")
 	private int age;
+	@SuppressWarnings("unused")
 	private String phone;
+	@SuppressWarnings("unused")
 	private String gender;
 
 	// 생성자

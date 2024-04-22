@@ -55,6 +55,8 @@ public class StarcraftTest2 {
 			System.out.println("프로그램을 공료 합니다.");
 			unitChoice = GAME_END;
 		}
+		
+		sc.close();
 
 	}
 
