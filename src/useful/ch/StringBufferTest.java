@@ -1,4 +1,4 @@
-package useful;
+package useful.ch;
 
 public class StringBufferTest {
 	
