@@ -1,4 +1,4 @@
-package starcraft;
+package useful;
 
 public class Test {
 
